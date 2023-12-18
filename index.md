@@ -1,5 +1,5 @@
 ---
-Brainomaly: Unsupervised Neurologic Disease Detection
+title:Brainomaly: Unsupervised Neurologic Disease Detection
 Utilizing Unannotated T1-weighted Brain MR Images
 ---
 
